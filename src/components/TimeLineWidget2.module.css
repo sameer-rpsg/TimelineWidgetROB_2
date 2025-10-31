@@ -46,6 +46,7 @@
   height: 0;
   font-size: 80px;
   font-weight: 700;
+  font-family: sweet-sans-pro, sans-serif;
 }
 .highlight__year span {
   display: block;
@@ -54,7 +55,7 @@
   margin-left: -120px;
 }
 .highlightsmallTitle {
-  font-family: var(--Rockyfontfamily);
+  font-family: sweet-sans-pro, sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.25;
@@ -62,7 +63,7 @@
   width: 585px;
 }
 .highlightsmallpara {
-  font-family: var(--Rockyfontfamily);
+  font-family: sweet-sans-pro, sans-serif;
   font-size: 32px;
   font-weight: 400;
   line-height: 1.15;
@@ -74,6 +75,7 @@
   margin-top: 48px;
   width: 585px;
   margin-left: 120px;
+  font-family: sweet-sans-pro, sans-serif;
 }
 .TimeLineWidget2highlight > *:not(.highlight__year) {
   opacity: 0;
@@ -88,7 +90,7 @@
   transform: translateY(0);
 }
 .hightlight__textpara {
-  font-family: var(--Rockyfontfamily);
+  font-family: sweet-sans-pro, sans-serif;
   line-height: 1.4;
   font-size: 20px;
   font-weight: 400;

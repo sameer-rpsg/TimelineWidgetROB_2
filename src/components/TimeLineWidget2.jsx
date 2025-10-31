@@ -71,14 +71,14 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>1992</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>La Tomatina, Spain</h6>
+              <h6 className={styles.highlightsmallTitle}>Fauchon, Paris</h6>
               <h4 className={styles.highlightsmallpara}>
-             When in Spain, let the tomatoes take you down!
+           Fauchon Paris turns everyday groceries into art, with jewel-like macarons, foie gras, and elegantly packaged teas that delight both sight and taste.
               </h4>
               <div className={styles.highlight__text}>
                 <p className={styles.hightlight__textpara}>
                   <span>
-                  If you are a Bollywood fan, I bet you have always wanted to take part in the tomato festival that you saw in Zindagi Na Milegi Dobara, that released in 2011
+               Parisian maisons such as Fauchon transform staples into objets of desire. At its boutiques, jewel-like macarons, tins of foie gras, and elegantly packaged teas make grocery shopping feel like stepping into an art gallery.
                   </span>
                 </p>
               </div>
@@ -87,7 +87,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A32%253A02.211Z-La%2520Tomatina%252C%2520Spain.jpg&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.834Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25281%2529.jpeg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -97,14 +97,14 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2005</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Hogmanay, Scotland</h6>
+              <h6 className={styles.highlightsmallTitle}>KaDeWe Gourmet Floor, Berlin</h6>
               <h4 className={styles.highlightsmallpara}>
-               Nothing screams romantic than an evening under the Edinburgh castel! 
+              KaDeWe Berlin’s Gourmet Floor is a culinary wonderland, where 30,000 products, oyster bars, and sweeping city views make shopping a spectacular experience.
               </h4>
               <div className={styles.highlight__text}>
                 <p>
                   <span>
-                   A new year’s special, if you are planning your honeymoon between December 29 to January 1, this festival allows you to ring in the New Year with fireworks and music at Edinburgh’s legendary Hogmanay. 
+                  Located on the sixth and seventh floors of Kaufhaus des Westens, KaDeWe’s Gourmet Floor is a culinary wonderland. With over 30,000 products, oyster bars, charcuterie counters, and sweeping views of Berlin, this is where shopping meets spectacle.
                   </span>
                 </p>
               </div>
@@ -113,7 +113,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A34%253A11.011Z-Yi%2520Peng%2520%2526%2520Loi%2520Krathong%2520festival.jpg&w=1920&q=75"
+                      src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.822Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25285%2529.jpeg&w=1200&q=75"
                     />
                   </div>
                 </div>
@@ -121,7 +121,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A29%253A50.040Z-Big%2520things%2520are%2520happening%2520at%2520Hogmanay%2520HQ...Listen%2520out%2520to%2520%2540forth1official%2520tomorrow%2520at%25208am%2520to%2520hear%2520.jpg&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.824Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25284%2529.jpeg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -131,14 +131,14 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2007</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Cherry Blossom Festival, Japan</h6>
+              <h6 className={styles.highlightsmallTitle}>Eataly, New York and Worldwide</h6>
               <h4 className={styles.highlightsmallpara}>
-             Let the Pink-hued city be your tinted goggles for your honeymoon
+            Eataly New York blends market, restaurant, and classes, letting you shop fresh pasta, taste mozzarella, and sip regional wines all under one roof.
               </h4>
               <div className={styles.highlight__text}>
                 <p className={styles.hightlight__textpara}>
                   <span>
-                  Hanami, Japan’s tradition of flower-viewing picnics under blooming cherry trees, is exclusively for the newlyweds.
+                 Part marketplace and part cultural hub, Eataly celebrates Italian food with a format that combines market stalls, counters, restaurants, and classes.
                   </span>
                 </p>
               </div>
@@ -147,7 +147,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A33%253A12.654Z-Cherry%2520Blossom%2520Festival%252C%2520Japan.JPG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.836Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM.jpeg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -157,14 +157,14 @@ const TimeLineWidget2 = () => {
               <span className={styles.highlight__year}>
                 <span>2008</span>
               </span>
-              <h6 className={styles.highlightsmallTitle}>Venice Carnival, Italy</h6>
+              <h6 className={styles.highlightsmallTitle}>Fortnum & Mason, Piccadilly, London</h6>
               <h4 className={styles.highlightsmallpara}>
-                A masquerade that screams romance
+               Fortnum & Mason, London, has been serving royalty and tastemakers since 1707, where iconic hampers, rare teas and jewel-toned preserves turn grocery shopping into a journey.
               </h4>
               <div className={styles.highlight__text}>
                 <p>
                   <span>
-                   Hosted in January to February, the Venice Carnival in Italy gives you a chance to step into an absolute fairytale where baroque costumes transform the city into a stage and feathered masks and canal-side masquerades make for a scene right out of a Shakespearean play.
+                  Founded in 1707, Fortnum & Mason has been supplying to royalty and tastemakers for over three centuries now. Its famed hampers, jewel-toned preserves, and rare teas are as much cultural artefacts as they are groceries. A visit to the Piccadilly flagship is a journey into British heritage served with elegance.
                   </span>
                 </p>
               </div>
@@ -173,7 +173,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A35%253A04.847Z-Venice%2520Carnival%252C%2520Italy.jpg&w=1920&q=75"
+                      src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.831Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25282%2529.jpeg&w=1200&q=75"
                     />
                   </div>
                 </div>
@@ -181,7 +181,7 @@ const TimeLineWidget2 = () => {
                   <div className={styles.image__inner}>
                     <img
                       className={`${styles.lazyloadd} ${styles.image__img}`}
-                      src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-03T12%253A32%253A02.211Z-La%2520Tomatina%252C%2520Spain.jpg&w=1920&q=75"
+                      src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.827Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25283%2529.jpeg&w=1920&q=75"
                     />
                   </div>
                 </div>
