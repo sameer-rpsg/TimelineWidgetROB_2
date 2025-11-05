@@ -80,7 +80,7 @@ const Article = () => {
                 color: "transparent",
               }}
               sizes="100vw"
-              src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.819Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25286%2529.jpeg&w=3840&q=75"
+              src="https://www.challenges.fr/_ipx/f_webp&enlarge_true&fit_cover&s_1360x840/cha/static/s3fs-public/2017-11/la-grande-epicerie-de-paris-passy-part2-web-3.jpg%3FVersionId=NUxQVOXfWubHT_iFf5xOFfcmirtFEVL7"
             />
           </div>
           <div className="story-photoBy">
@@ -133,7 +133,7 @@ const Article = () => {
                 style={{ color: "transparent", width: "100%", height: "auto" }}
                 sizes="100vw"
                
-                src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Feditor-images%2F2025-09-25T10%253A18%253A18.812Z-WhatsApp%2520Image%25202025-09-25%2520at%25203.45.21%2520PM%2520%25287%2529.jpeg&w=3840&q=75"
+                src="https://media.cntraveler.com/photos/66611a25e10c4bac8d90f9f6/16:9/w_2560,c_limit/La%20Grande%20Epicerie%20de%20Paris_2GRJ2N6.jpg?mbid=social_retweet"
               />
               <div className="story-photoBy">
                 <span className="story-caption">
